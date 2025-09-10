@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Tidal Spiral",
+			"type": "shell",
+			"command": "C:/Users/giova/.pyenv/pyenv-win/versions/3.11.9/python.exe main.py tidal_data.csv",
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
